@@ -754,7 +754,8 @@ Happy Coding! -->
 <td align="center"> <a href="https://github.com/pranjay-poddar/Dev-Geeks/tree/main/Frontend-Projects/VegetableMarketplace"> VegetableMarketplace </a></td>
 <td align="center"> 250.</td>
 <td align="center"> <a href="https://github.com/pranjay-poddar/Dev-Geeks/tree/main/Frontend-Projects/ApppleClone"> Apple Clone </a></td>
-
+<td align="center"> 251.</td>
+<td align="center"> <a href="https://github.com/pranjay-poddar/Dev-Geeks/tree/main/Frontend-Projects/CandyCrush Clone"> Candy Crush Clone </a></td>
 </tr>
 
 </table>
